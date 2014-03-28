@@ -1,12 +1,16 @@
 ######################
 
 1) Install docker
+
 2) extract  pumpio_docker.tar.gz
+
 3) go inside folder pump.io
+
 4) configure pump.io.json as per your needs
+
 5) build docker using
 docker builder .
-// take care of context, of supervisord and pump.io.json
+    // take care of context, of supervisord and pump.io.json
 
 6)run docker
 
