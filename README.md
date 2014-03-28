@@ -1,5 +1,7 @@
 ######################
 
+### pump.io http://pump.io Docker image - listens in port 80, 22
+
 1) Install docker
 
 2) extract  pumpio_docker.tar.gz
